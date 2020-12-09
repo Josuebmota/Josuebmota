@@ -1,7 +1,7 @@
 ### Hi traveler 👋,
 
 <p align= "center">
-  <img src = "https://user-images.githubusercontent.com/34459397/91911769-29d8c180-ec88-11ea-8cb2-36e5d07db1f6.gif" width = 250/>
+  <img src = "https://user-images.githubusercontent.com/34459397/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif" width = 250/>
  </p>
 
 My name is Josué, and i am always impressed by the technologies around me.<br>
