@@ -8,13 +8,12 @@ My name is Josué, and i am always impressed by the technologies around me.<br>
 In the topics below you are talking a little about me
 
 - 📚 I'm computer science student at Federal Institute of Ceará - Campus Maracanaú, Brazil.
-- 🔭 Currently working as a trainee in Farmácias Pague Menos.
-- 🌱 Learning javascript (Nodejs, ReactJS and React Native) 🛢💻📱
+- 🌱 Learning javascript (Nodejs, ReactJS and React Native) and .Net 🛢💻📱
 - 📫 If you want to talk to me, click on the options above and call me by chat 💬
 
 <div> 
-  <a href="https://www.linkedin.com/in/josu%C3%A9-batista-694bba135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/josuebmota/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josubatsta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/josubatsta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.youtube.com/channel/UCwcYuY-6ItRrRUQPQUEZKFQ?"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:josuebatistam1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
